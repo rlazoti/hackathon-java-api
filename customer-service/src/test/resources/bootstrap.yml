@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: customer-service
+  cloud:
+    bus:
+      enabled: false
+    discovery:
+      enabled: false
+    eureka:
+      enabled: false
