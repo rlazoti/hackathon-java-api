@@ -18,9 +18,13 @@ The API's implementation was divided in 4 phases:
 ## Technologies
 
 All services are based on Spring Boot and Spring Cloud.
+
 Service discovery uses Netflix Eureka.
+
 Client-side Load Balancer uses Netflix Ribbon.
+
 Metrics will be stored into Prometheus and tracing into Zipkin.
+
 
 There's a very simple [presention](https://raw.githubusercontent.com/rlazoti/hackathon-java-api/master/Presentation.pdf) about this project.
 
