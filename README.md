@@ -1,7 +1,7 @@
 Hackathon Java API
 =============
 
-Code challenge to create a api using Java.
+Code challenge to create an API using Java.
 
 
 ## Architecture
