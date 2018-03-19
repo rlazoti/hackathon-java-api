@@ -8,10 +8,10 @@ Code challenge to create a api using Java.
 
 The API's implementation was divided in 4 phases:
 
--1) Create the services: Product, Customer and Order
--2) Add service discovery, centralised configuration and load balancer (client-side)
--3) Create api gateway and a authentication service
--4) Configure and collect metrics and tracing from all services
+- 1) Create the services: Product, Customer and Order
+- 2) Add service discovery, centralised configuration and load balancer (client-side)
+- 3) Create api gateway and a authentication service
+- 4) Configure and collect metrics and tracing from all services
 
 ![Idea](https://raw.githubusercontent.com/rlazoti/hackathon-java-api/master/services.png)
 
