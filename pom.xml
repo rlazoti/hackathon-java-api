@@ -18,11 +18,12 @@
   </parent>
 
   <modules>
+    <module>auth-service</module>
     <module>commons-model</module>
     <module>customer-service</module>
+    <module>eureka-service</module>
     <module>order-service</module>
     <module>product-service</module>
-    <module>eureka-service</module>
   </modules>
 
   <build>
